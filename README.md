@@ -32,3 +32,32 @@ This project performs an exploratory analysis of a public retail dataset to unco
 
 ## 📁 Project Structure
 
+retail-sales-insights/
+├── README.md # Project documentation
+├── data/ # Dataset (superstore.csv or similar)
+│
+├── notebooks/ # Jupyter Notebooks for EDA and analysis
+│ └── 01_eda_superstore.ipynb
+│
+├── src/ # Python scripts or helper functions
+│ └── utils.py
+│
+├── outputs/ # Generated outputs
+│ ├── figures/ # Plots and charts
+│ └── tables/ # Summary tables or CSVs
+│
+└── requirements.txt # List of Python dependencies
+
+
+## 📫 Contact
+
+Feel free to connect:
+
+- 📧 Email: guillermodurantez@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/guillermodurantez](https://www.linkedin.com/in/guillermodurantez/)  
+
+---
+
+> ⭐ This project is part of my data science portfolio. For more projects, visit my [main portfolio repository](https://github.com/guillermodurantez/portfolio).
+
+
