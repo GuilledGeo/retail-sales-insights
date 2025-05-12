@@ -48,7 +48,7 @@ retail-sales-insights/
 │
 └── requirements.txt # List of Python dependencies
 
-
+---
 ## 📫 Contact
 
 Feel free to connect:
