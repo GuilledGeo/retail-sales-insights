@@ -29,26 +29,6 @@ This project performs an exploratory analysis of a public retail dataset to unco
 - `Power BI` (optional) for dashboarding
 
 ---
-
-## 📁 Project Structure
-
-retail-sales-insights/
-├── README.md # Project documentation
-├── data/ # Dataset (superstore.csv or similar)
-│
-├── notebooks/ # Jupyter Notebooks for EDA and analysis
-│ └── 01_eda_superstore.ipynb
-│
-├── src/ # Python scripts or helper functions
-│ └── utils.py
-│
-├── outputs/ # Generated outputs
-│ ├── figures/ # Plots and charts
-│ └── tables/ # Summary tables or CSVs
-│
-└── requirements.txt # List of Python dependencies
-
----
 ## 📫 Contact
 
 Feel free to connect:
